@@ -34,13 +34,13 @@ education:
   - course: Ph.D. in Deep Learning
     institution: Université Grenoble Alpes
     year: 2020-2023
-  - course: MSc. in Eng. in Computer Science &amp; Engineering, Data Mining &amp; Decision Support
+  - course: MSc. in Eng. in Computer Science & Engineering, Data Mining & Decision Support
     institution: Université de Technologie de Compiègne
     year: 2019
-  - course: MSc. in Computer Science, Machine Learning &amp; Optimization
+  - course: MSc. in Computer Science, Machine Learning & Optimization
     institution: Scuola Politecnica di Genova
     year: 2019
-  - course: MSc. in Computer Science, Machine Learning &amp; Optimization
+  - course: MSc. in Computer Science, Machine Learning & Optimization
     institution: Université de Technologie de Compiègne
     year: 2019
 
@@ -79,14 +79,14 @@ email: "minh-tri.le [at] inria.fr"
 highlight_name: true
 ---
 
-I am currently a first-year industrial (CIFRE) Ph.D. student in deep learning at [TDK InvenSense France](https://invensense.tdk.com/) and the [INRIA Grenoble Rhône-Alpes](https://www.inria.fr/en/centre-inria-grenoble-rhone-alpes) in the [Statify](https://team.inria.fr/statify/research/) research team. In 2019, I graduated as an engineer in Computer Science &amp; Engineering specialized in [Data Mining &amp; Decision Support](https://www.utc.fr/en/courses-and-training/the-utc-engineering-diploma/computer-sciences-and-engineering-gi/specialty-decision-data-mining-gi-fdd.html) at the [Université de Technologie de Compiègne, France (UTC)](https://www.utc.fr/en.html) and also obtained the Double European Master degree [EMECIS](http://emecis.eu/en/) in Machine Learning &amp; Optimization between the UTC and the [Scuola Politecnica di Genova, Italy](https://scuolapolitecnica.unige.it/). During the last semester of my Master, I worked as a research engineer intern at InvenSense to get familiar with my Ph.D. subject. 
+I am currently a first-year industrial (CIFRE) Ph.D. student in deep learning at [TDK InvenSense France](https://invensense.tdk.com/) and the [INRIA Grenoble Rhône-Alpes](https://www.inria.fr/en/centre-inria-grenoble-rhone-alpes) in the [Statify](https://team.inria.fr/statify/research/) research team.
+<br>
+In 2019, I graduated as an engineer in Computer Science &amp; Engineering specialized in [Data Mining &amp; Decision Support](https://www.utc.fr/en/courses-and-training/the-utc-engineering-diploma/computer-sciences-and-engineering-gi/specialty-decision-data-mining-gi-fdd.html) at the [Université de Technologie de Compiègne, France (UTC)](https://www.utc.fr/en.html). In parallel of the last year of engineering course, I also obtained the Double European Master degree [EMECIS](http://emecis.eu/en/) in Machine Learning &amp; Optimization between the UTC and the [Scuola Politecnica di Genova, Italy](https://scuolapolitecnica.unige.it/), to specialize in research. During the last semester of my Master, I worked as a research engineer intern at InvenSense to get familiar with my Ph.D. subject. 
 
-My work focuses on **bringing the power of neural networks to very constrained micro-embedded systems** [#TinyML](). My research interests include **general deep learning, model compression, tinyML, edge inference, autoML, NAS**...
-My supervisors are Etienne de Foras, Sr. software engineer at InvenSense and [Julyan Arbel](https://www.julyanarbel.com/), researcher at the INRIA.
+My research focuses on **bringing the power of neural networks to very constrained micro-embedded systems** [#TinyML](). My interests include **general deep learning, model compression, tinyML, edge inference, autoML, NAS**...
+My supervisors are [Etienne de Foras](http://edeforas.free.fr/), Sr. software engineer at InvenSense and [Julyan Arbel](https://www.julyanarbel.com/), researcher at the INRIA.
 
-I am passionate about innovation, research, artificial intelligence, as well as software development in general.
-I thrive in an environment where I can apply my skills and enthusiasm to future-oriented projects that can help move our society forward.
-I have a deep interest to collaborate within rich multi-cultural settings.
+I am passionate about innovation, research, artificial intelligence, as well as software development in general. I have a deep interest to collaborate within rich multi-cultural settings.
 
 
-{{< icon name="download" pack="fas" >}} See my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé here{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} See my {{< staticref "media/cv.pdf" "newtab" >}}resumé here{{< /staticref >}}.
