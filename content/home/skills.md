@@ -24,7 +24,7 @@ subtitle = ""
   icon = "brain"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "Neural Networks&colon; MLP, CNN, RNN... applied to Signal Processing, Image, Audio..., (Un-)Supervised learning"  
+  description = "Standard Machine Learning, Neural Networks&colon; MLP, CNN, RNN... applied to Signal Processing, Image, Audio..."  
   
 [[feature]]
   icon = "code-branch"
@@ -52,7 +52,7 @@ subtitle = ""
   icon = "language"
   icon_pack = "fas"
   name = "Languages"
-  description = "- Native French <br>- Fluent English <br>- Intermediate Italian & Spanish <br>- Beginner Vietnamese, Mandarin & Polish"
+  description = "&bull; Native French <br>&bull; Fluent English <br>&bull; Intermediate Italian & Spanish <br>&bull; Beginner Vietnamese, Mandarin & Polish"
 
 # Uncomment to use emoji icons.
 # [[feature]]
