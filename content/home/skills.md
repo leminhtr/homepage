@@ -3,7 +3,7 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "Skills"
 subtitle = ""
@@ -15,22 +15,44 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "python"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Python"
+  description = "TensorFlow 2, PyTorch, Scikit-Learn, Numpy, Pandas... on PyCharm :heart:"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "brain"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Machine Learning"
+  description = "Neural Networks&colon; MLP, CNN, RNN... applied to Signal Processing, Image, Audio..., (Un-)Supervised learning"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "code-branch"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Git"
+
+[[feature]]
+  icon = "code-branch"
+  icon_pack = "fas"
+  name = "Web Development"
+  description = "TypeScript, Angular 5, Electron, Bootstrap, REST API, Travis-CI"
+
+[[feature]]
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Linux"
+
+[[feature]]
+  icon = "photo-video"
+  icon_pack = "fas"
+  name = "Videography & Photography"
+  description = "Adobe Premiere Pro, After Effect, Lightroom"
+
+[[feature]]
+  icon = "language"
+  icon_pack = "fas"
+  name = "Languages"
+  description = "- Native French <br>- Fluent English <br>- Intermediate Italian & Spanish <br>- Beginner Vietnamese, Mandarin & Polish"
 
 # Uncomment to use emoji icons.
 # [[feature]]
