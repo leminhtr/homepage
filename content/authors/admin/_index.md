@@ -12,7 +12,7 @@ role: Industrial Ph.D. Student in Deep Learning
 organizations:
 - name: TDK InvenSense
   url: https://invensense.tdk.com/
-- name: Statify @ INRIA Grenoble Rhône-Alpes
+- name: Statify @INRIA Grenoble Rhône-Alpes
   url: https://team.inria.fr/statify/research/
 
 # Short bio (displayed in user profile at end of posts)
@@ -20,22 +20,29 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- TinyML &amp; All things model compression&colon; Pruning, Quantization, Knowledge Distillation...
+- AutoML, NAS, Meta-Learning
+- Edge Inference
+- Traveling, Interculturality, Languages 
+- Hiking, Running, Table tennis
+- Videography &amp; Photography
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Deep Learning
+    institution: Université Grenoble Alpes
+    year: 2020-2023
+  - course: MSc. in Eng. in Computer Science &amp; Engineering, Data Mining &amp; Decision Support
+    institution: Université de Technologie de Compiègne
+    year: 2019
+  - course: MSc. in Computer Science, Machine Learning &amp; Optimization
+    institution: Scuola Politecnica di Genova
+    year: 2019
+  - course: MSc. in Computer Science, Machine Learning &amp; Optimization
+    institution: Université de Technologie de Compiègne
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -48,9 +55,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/le_minhtr
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: fas
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/leminhtr
@@ -72,8 +79,14 @@ email: "minh-tri.le [at] inria.fr"
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a first-year industrial (CIFRE) Ph.D. student in deep learning at [TDK InvenSense France](https://invensense.tdk.com/) and the [INRIA Grenoble Rhône-Alpes](https://www.inria.fr/en/centre-inria-grenoble-rhone-alpes) in the [Statify](https://team.inria.fr/statify/research/) research team. In 2019, I graduated as an engineer in Computer Science &amp; Engineering specialized in [Data Mining &amp; Decision Support](https://www.utc.fr/en/courses-and-training/the-utc-engineering-diploma/computer-sciences-and-engineering-gi/specialty-decision-data-mining-gi-fdd.html) at the [Université de Technologie de Compiègne, France (UTC)](https://www.utc.fr/en.html) and also obtained the Double European Master degree [EMECIS](http://emecis.eu/en/) in Machine Learning &amp; Optimization between the UTC and the [Scuola Politecnica di Genova, Italy](https://scuolapolitecnica.unige.it/). During the last semester of my Master, I worked as a research engineer intern at InvenSense to get familiar with my Ph.D. subject. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My work focuses on **bringing the power of neural networks to very constrained micro-embedded systems** [#TinyML](). My research interests include **general deep learning, model compression, tinyML, edge inference, autoML, NAS**...
+My supervisors are Etienne de Foras, Sr. software engineer at InvenSense and [Julyan Arbel](https://www.julyanarbel.com/), researcher at the INRIA.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am passionate about innovation, research, artificial intelligence, as well as software development in general.
+I thrive in an environment where I can apply my skills and enthusiasm to future-oriented projects that can help move our society forward.
+I have a deep interest to collaborate within rich multi-cultural settings.
+
+
+{{< icon name="download" pack="fas" >}} See my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé here{{< /staticref >}}.
