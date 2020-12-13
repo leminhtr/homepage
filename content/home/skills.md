@@ -25,17 +25,23 @@ subtitle = ""
   icon_pack = "fas"
   name = "Machine Learning"
   description = "Standard Machine Learning, Neural Networks&colon; MLP, CNN, RNN... applied to Signal Processing, Image, Audio..."  
-  
+
 [[feature]]
-  icon = "code-branch"
-  icon_pack = "fas"
-  name = "Git"
+  icon = "cpptest"
+  icon_pack = "custom"
+  name = "C++"
+  description = "OOP, Design Pattern"
 
 [[feature]]
   icon = "code-branch"
   icon_pack = "fas"
   name = "Web Development"
-  description = "TypeScript, Angular 5, Electron, Bootstrap, REST API, Travis-CI"
+  description = "TypeScript, Angular 5, Electron, Bootstrap, Travis-CI, REST API"
+
+[[feature]]
+  icon = "code-branch"
+  icon_pack = "fas"
+  name = "Git"
 
 [[feature]]
   icon = "linux"

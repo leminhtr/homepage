@@ -89,4 +89,4 @@ My supervisors are [Etienne de Foras](http://edeforas.free.fr/), Sr. software en
 I am passionate about innovation, research, artificial intelligence, as well as software development in general. I have a deep interest to collaborate within rich multi-cultural settings.
 
 
-{{< icon name="download" pack="fas" >}} See my {{< staticref "media/cv.pdf" "newtab" >}}resumé here{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Checkout my {{< staticref "media/cv.pdf" "newtab" >}}resumé here{{< /staticref >}}.

@@ -29,8 +29,8 @@ subtitle = ""
   # gradient_end = "ForestGreen"
   
   # Background image.
-  image = "demo_background.jpg"  # Name of image in `static/media/`.
-  image_darken = 0.1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image = "background-min.jpg"  # Name of image in `static/media/`.
+  image_darken = 0.05  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
@@ -40,7 +40,8 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["150px", "0", "280px", "20px"]
+  # Is built to move the text but does also help to resize image height size
+  padding = ["185px", "0", "235px", "20px"]
 
 [advanced]
  # Custom CSS. 
@@ -60,7 +61,7 @@ subtitle = ""
 a, button {
     pointer-events: all;
 }
-* { z-index: 2; }
+/** { z-index: 2; }*/
 .particle, .particle > canvas
 #particles-js {
 position: fixed;
@@ -68,7 +69,7 @@ position: fixed;
     height: 100%;
     left: 0px;
     top: 0px;
-z-index: 1;
+/*z-index: 1;*/
 }
 </style>
   <script>

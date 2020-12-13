@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-06-15"
   date_end = ""
   description = """
-Research on Deep Learning for micro-embedded systems supervised by [Etienne De Foras](http://edeforas.free.fr/) [@TDK InvenSense](https://invensense.tdk.com/) and [Julyan Arbel](https://www.julyanarbel.com/) [Statify](https://team.inria.fr/statify/research/) [@INRIA Grenoble Rhône-Alpes](https://www.inria.fr/en/centre-inria-grenoble-rhone-alpes).
+Research on Deep Learning for micro-embedded systems supervised by [Etienne De Foras](http://edeforas.free.fr/) [@TDK InvenSense](https://invensense.tdk.com/) and [Julyan Arbel](https://www.julyanarbel.com/), [Statify team](https://team.inria.fr/statify/research/) [@INRIA Grenoble Rhône-Alpes](https://www.inria.fr/en/centre-inria-grenoble-rhone-alpes).
 
 **Keywords**: Neural Networks, TinyML, Model Compression, Edge Inference, Meta-Learning, Micro-embedded Systems, AutoML, NAS
 """

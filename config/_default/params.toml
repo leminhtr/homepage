@@ -271,8 +271,8 @@ plugins_js  = ['particles']
 ## Marketing
 ############################
 [marketing]
-  google_analytics = ""
-  google_tag_manager = ""
+  google_analytics = "G-802MGZ9XDK"
+#  google_tag_manager = ""
 
 ############################
 ## Content Management System
