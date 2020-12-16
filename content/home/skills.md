@@ -38,15 +38,23 @@ subtitle = ""
   name = "Web Development"
   description = "TypeScript, Angular 5, Electron, Bootstrap, Travis-CI, REST API"
 
-[[feature]]
-  icon = "code-branch"
-  icon_pack = "fas"
-  name = "Git"
+# [[feature]]
+#   icon = "code-branch"
+#   icon_pack = "fas"
+#   name = "Git"
+# 
+# [[feature]]
+#   icon = "linux"
+#   icon_pack = "fab"
+#   name = "Linux"
+
 
 [[feature]]
-  icon = "linux"
-  icon_pack = "fab"
-  name = "Linux"
+  icon = "language"
+  icon_pack = "fas"
+  name = "Languages"
+  description = "&bull; Native French <br>&bull; Fluent English <br>&bull; Intermediate Italian & Spanish <br>&bull; Beginner Vietnamese, Mandarin & Polish"
+
 
 [[feature]]
   icon = "photo-video"
@@ -54,11 +62,7 @@ subtitle = ""
   name = "Videography & Photography"
   description = "Adobe Premiere Pro, After Effect, Lightroom"
 
-[[feature]]
-  icon = "language"
-  icon_pack = "fas"
-  name = "Languages"
-  description = "&bull; Native French <br>&bull; Fluent English <br>&bull; Intermediate Italian & Spanish <br>&bull; Beginner Vietnamese, Mandarin & Polish"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
